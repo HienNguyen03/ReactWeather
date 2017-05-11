@@ -14,7 +14,6 @@ var About = (props) => {
     <div>
         <h3>About Page</h3>
         <p>Welcome to ReactWeather application</p>
-        <p>This is a pratice React exercise</p>
     </div>
 
   );
