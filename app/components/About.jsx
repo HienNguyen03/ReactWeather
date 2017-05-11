@@ -11,7 +11,12 @@ var React = require('react');
 //stateless, haing only render function, does not maintain any state
 var About = (props) => {
   return (
-    <h3>About Component</h3>
+    <div>
+        <h3>About Page</h3>
+        <p>Welcome to ReactWeather application</p>
+        <p>This is a pratice React exercise</p>
+    </div>
+
   );
 }
 module.exports = About;
